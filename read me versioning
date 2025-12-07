@@ -1,3 +1,4 @@
 1.0 base version
 2.0 changed from ma tf textbox input, to ma tf dropdown input
 2.1 removed 5 seconds, 10 seconds, 15 seconds, 30 seconds from ma tf and added "1 second" + change default hours of the trading sessions
+2.2 removed 1 second input in ma tf
